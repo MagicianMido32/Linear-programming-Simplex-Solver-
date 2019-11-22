@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Linear Programming Solver.exe" version="1.0.0.0" publicKeyToken="c1d007715d74f2ba" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="FB Messenger.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Linear Programming Solver" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Linear Programming Solver.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Solver.Foundation" version="3.0.2.10889" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Linear Programming Solver.exe" size="805376">
+      <assemblyIdentity name="Linear Programming Solver" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>/7qLkhaeMo7qPrjP1pMkUco0uWqlhrnLhABsdmlmxOU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="FB Messenger.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WpGh8Tw/0ZqcZ6kHP3pJ2rlb+m0KolRLGI4/Jx9bNF0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Linear Programming Solver.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MIDO\MiDo" issuerKeyHash="8782787ef9bea897c1d9fd55405d3f5bc83ef348" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dTt1q/RqaBryvQC7TP79ueT3awTy3aJTF2wMnRMdrZg=</DigestValue></Reference></SignedInfo><SignatureValue>MQzbaspNjtLtCWQ9Wn5qAHd5i3E+B1lo4Wp46hVdVfpkDqbAFENcJFOu+iO+9F/vgsPziZ1ZTMG3bJjDFHab4uqIZ3EpciF/4/sHXuqmW4ohQe/HZZvfEJQWZewuSJtBz02/8brFol2zGnjYWzUIDGFZ2lW4SYVnbZ0BmSuPxDU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>9POCiVKUV8Rvt7ifFGfS98VkUtxw3kO1m5OIT+UPnBcAekiyg2CHqNNJ6VqVpywbKZtq+R28n8Eea7lDepDhP/90LU3GZY5bcYAHSUwUEZWydY7c9pYdBn1dPAk4lIn6r9L6a9tX2qhRRdlVpZgezqIIwW+Cjczj5CyRiefBv30=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="98ad1d139d0c6c1753a2ddf2046bf7e4b9fdfe4cbb00bdf21a686af4ab753b75" Description="" Url=""><as:assemblyIdentity name="Linear Programming Solver.exe" version="1.0.0.0" publicKeyToken="c1d007715d74f2ba" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MIDO\MiDo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>lR4pHHFfE/+6dsGlw/tyjGZm1R5SAtVOrdS6mLZVxLI=</DigestValue></Reference></SignedInfo><SignatureValue>4rD464qZ2vlMrBHjvQSak9YSHrSdZ4Zm2SRPl/kkMaF/2qlnve2jpIY/SuLF3GfvtvqY8yl9KdRBZS+60ITmzyu+tt6jdUwK7cdGYOd/NRIZ9BJpy4f0HDD7IUSSZDi7t5cZqWTKBRTJipNMXCx00euyezhf/4vKH7Jcr9agCxY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>9POCiVKUV8Rvt7ifFGfS98VkUtxw3kO1m5OIT+UPnBcAekiyg2CHqNNJ6VqVpywbKZtq+R28n8Eea7lDepDhP/90LU3GZY5bcYAHSUwUEZWydY7c9pYdBn1dPAk4lIn6r9L6a9tX2qhRRdlVpZgezqIIwW+Cjczj5CyRiefBv30=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQZQ+h2opvYqpEstS+smIMRTANBgkqhkiG9w0BAQsFADAdMRswGQYDVQQDHhIATQBJAEQATwBcAE0AaQBEAG8wHhcNMTgwNTAzMDAyMTE5WhcNMTkwNTAzMDYyMTE5WjAdMRswGQYDVQQDHhIATQBJAEQATwBcAE0AaQBEAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAPTzgolSlFfEb7e4nxRn0vfFZFLccN5DtZuTiE/lD5wXAHpIsoNgh6jTSelalacsGymbavkdvJ/BHmu5Q3qQ4T//dC1NxmWOW3GAB0lMFBGVsnWO3PaWHQZ9XTwJOJSJ+q/S+mvbV9qoUUXZVaWYHs6iCMFvgo3M4+QskYnnwb99AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAVdgrYRzLrkjVtuNzMYfbir9kNB6rS3TYm51VZMvpjEutGNtwl/6HldBW9Xxw4Qj8z77T/zwQEGC0ZEfavKT7ludOLKQtwjo9EiGv5rMMmnO/roYIRIyyQ3XCrUNwDsTY1tNGrTh7BuTYh2EHPw/ZAISGwU4O7Rb1ejQ+vwR45RA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

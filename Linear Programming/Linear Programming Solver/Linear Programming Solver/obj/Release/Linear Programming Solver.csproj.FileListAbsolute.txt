@@ -1,0 +1,30 @@
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.exe.config
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.exe.manifest
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.application
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.exe
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.pdb
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear_Programming_Solver.Form1.resources
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear_Programming_Solver.Form2.resources
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear_Programming_Solver.Properties.Resources.resources
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.exe.manifest
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.application
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.exe
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.pdb
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.exe.config
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.exe
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.pdb
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.exe.manifest
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.application
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.exe
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.pdb
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.csprojResolveAssemblyReference.cache
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear_Programming_Solver.Form1.resources
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear_Programming_Solver.Form2.resources
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear_Programming_Solver.Properties.Resources.resources
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.exe.manifest
+C:\Users\medot\Desktop\pragma\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.application
+C:\Users\medot\Desktop\programming\Completed\Linear Programming\Linear Programming Solver\Linear Programming Solver\bin\Release\Linear Programming Solver.exe.config
+C:\Users\medot\Desktop\programming\Completed\Linear Programming\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.exe
+C:\Users\medot\Desktop\programming\Completed\Linear Programming\Linear Programming Solver\Linear Programming Solver\obj\Release\Linear Programming Solver.pdb

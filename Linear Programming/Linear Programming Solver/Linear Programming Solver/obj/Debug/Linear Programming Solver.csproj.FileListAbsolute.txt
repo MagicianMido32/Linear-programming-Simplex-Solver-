@@ -1,0 +1,24 @@
+c:\users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\bin\Debug\Linear Programming Solver.exe.config
+c:\users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\bin\Debug\Linear Programming Solver.exe
+c:\users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\bin\Debug\Linear Programming Solver.pdb
+c:\users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.csprojResolveAssemblyReference.cache
+c:\users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear_Programming_Solver.Properties.Resources.resources
+c:\users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.csproj.GenerateResource.Cache
+c:\users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.exe
+c:\users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.pdb
+C:\Users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear_Programming_Solver.Form1.resources
+C:\Users\medot\documents\visual studio 2013\Projects\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear_Programming_Solver.Form2.resources
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Debug\Linear Programming Solver.exe.config
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.exe
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.pdb
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Debug\Linear Programming Solver.exe.manifest
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Debug\Linear Programming Solver.application
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Debug\Linear Programming Solver.exe
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\bin\Debug\Linear Programming Solver.pdb
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.csprojResolveAssemblyReference.cache
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear_Programming_Solver.Form1.resources
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear_Programming_Solver.Form2.resources
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear_Programming_Solver.Properties.Resources.resources
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.csproj.GenerateResource.Cache
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.exe.manifest
+C:\Users\medot\Desktop\Linear Programming Solver\Linear Programming Solver\obj\Debug\Linear Programming Solver.application
